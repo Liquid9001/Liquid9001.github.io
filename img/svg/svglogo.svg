@@ -1,0 +1,78 @@
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	height ="300"
+	width = "300"
+	viewbox ="0 0 300 300"
+	>
+	
+	<polygon 
+		points="80,60 200,150 95,190"
+		fill="#045" 
+		/>
+	<polygon 
+		points="210,60 210,150 120,200"  
+		fill="#045" 
+		/>
+	<circle
+		cx="50%"
+		cy="50%"
+		r="25%"
+		stroke="#FEF"
+		stroke-width="3"
+		fill="#6CC"	
+		/>
+	<circle
+		cx="53%"
+		cy="60%"
+		r="10%"
+		stroke="#6CB"
+		stroke-width="3"
+		fill="#6AA"	
+		/>
+	
+	<circle
+		cx="40%"
+		cy="40%"
+		r="5%"
+		stroke="#FFF"
+		stroke-width="3"
+		fill="#000"	
+		/>
+	<circle
+		cx="42%"
+		cy="41%"
+		r="1%"
+		stroke="#FFF"
+		stroke-width="3"
+		fill="#FFF"	
+		/>
+	<circle
+		cx="60%"
+		cy="40%"
+		r="5%"
+		stroke="#FFF"
+		stroke-width="3"
+		fill="#000"	
+		/>
+	<circle
+		cx="62%"
+		cy="41%"
+		r="1%"
+		stroke="#FFF"
+		stroke-width="3"
+		fill="#FFF"	
+		/>
+	<ellipse 
+		cx="53%" 
+		cy="56%" 
+		rx="5%"
+		ry="9"
+		fill="#679"
+		/>
+		<polyline 
+		points="150,185 151,186 152,187 153,188 154,189 155,189 160,189 163,187 166,185 166,185 170,181 170,180"
+		style="fill:none;stroke:black;stroke-width:3" />
+
+</svg>
