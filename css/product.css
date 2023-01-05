@@ -84,7 +84,8 @@ footer
 	}
 
 @media screen and (min-width: 481px) and (max-width: 1279px)
-header
+{	
+	header
 {
 	grid-area: headerTag;
 }
@@ -127,6 +128,7 @@ footer
 #cookies
 {
 	grid-area: coockiesTag;
+}
 }
 #grid-container
 	{
@@ -157,7 +159,8 @@ footer
 	}
 	
 @media screen and (min-width: 1280px)
-header
+{
+	header
 {
 	grid-area: headerTag;
 }
@@ -200,6 +203,7 @@ footer
 #cookies
 {
 	grid-area: coockiesTag;
+}
 }
 #grid-container	
 	{
